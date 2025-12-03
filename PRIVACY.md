@@ -16,7 +16,7 @@ Our app offers "Pro Mode" via In-App Purchases. All transactions are processed s
 
 ## 4. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-[Your Email Address Here]
+[nyoriworks@gmail.com]
 
 ---
 
@@ -38,4 +38,4 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 ## 4. お問い合わせ
 本プライバシーポリシーに関するご質問は、以下までご連絡ください。
-[ここにメールアドレスを入力]
+[nyoriworks@gmail.com]
