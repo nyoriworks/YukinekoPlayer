@@ -16,3 +16,5 @@ If you have any questions, please contact us.
 
 ## Privacy Policy
 [View Privacy Policy](PRIVACY.md)
+
+[![Download on the Mac App Store](https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg)](https://apps.apple.com/app/yukinekoplayer/id6756008211)
